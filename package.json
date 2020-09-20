@@ -2,6 +2,9 @@
   "name": "draken",
   "description": "draken bot",
   "version": "1.0.0",
+    "engines": {
+    "node": "12.x"
+  }
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,3 +14,5 @@
     "request": "2.81.0"
   }
 }
+
+
