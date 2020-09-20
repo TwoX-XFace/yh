@@ -2,9 +2,9 @@
   "name": "draken",
   "description": "draken bot",
   "version": "1.0.0",
-    "dependencies": {
+    "dependencies": 
     "discord.js": "11.1.0",
-    "request": "2.81.0" }
+    "request": "2.81.0" 
   
     "engines": {
     "node": "12.x"
